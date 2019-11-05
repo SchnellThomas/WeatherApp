@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Enter_City_Name">Enter city name</string>
+    <string name="search">search</string>
+    <string name="result">Result</string>
+    <string name="textview">TextView</string>
+</resources>
